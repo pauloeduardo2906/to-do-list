@@ -5,8 +5,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.paulo.todolist.databinding.ActivityMainBinding
-import com.paulo.todolist.datasource.TaskDataSource
+import com.paulo.to_do_list.todolist.databinding.ActivityMainBinding
+import com.paulo.to_do_list.todolist.datasource.TaskDataSource
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
